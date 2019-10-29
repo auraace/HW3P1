@@ -1,0 +1,2 @@
+# HW3P1
+EECS 349 HW 3 Part 1
